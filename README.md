@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer | Problem Solver
 -----------------------------------
 
-👋 Hi, I'm Tichaona.
+👋 Hi, I'm King Tichaona Godo.
 
 I'm a software developer and builder passionate about using technology to solve real-world problems. I enjoy creating practical solutions in areas like agriculture, finance, and digital transformation, turning complex challenges into simple and intuitive experiences.
 
