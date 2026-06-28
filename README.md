@@ -1,5 +1,23 @@
-# 💫 About Me:
-# Hi, I'm King Tichaona Godo<br><br>### Full Stack Software Engineer | Building Technology That Solves Real-World Problems<br><br>I'm a passionate software engineer who enjoys designing and building scalable web and mobile applications that create meaningful impact. My work focuses on developing practical solutions in **FinTech, AgriTech, HealthTech, and digital transformation**, combining modern technologies with user-centered design to solve everyday challenges.<br><br>I believe great software is more than clean code—it's about understanding people, simplifying complex problems, and delivering products that make a difference. Whether I'm developing enterprise systems, mobile applications, or backend services, I'm driven by curiosity, continuous learning, and a commitment to building technology that matters.<br><br>## About Me<br><br>* Based in Harare, Zimbabwe<br>* Email: **[kingtgodo@gmail.com](mailto:kingtgodo@gmail.com)**<br>* Currently expanding my expertise in **Spring Boot, Java, and scalable backend architecture**<br>* Open to collaborating on **FinTech, AgriTech, AI, HealthTech, and other impactful software projects**<br>* Ask me about **React, React Native, Node.js, TypeScript, backend development, and system architecture**<br><br>> *"I enjoy turning ideas into reliable, scalable software that solves real problems and creates lasting value."*<br>
+## 💫 About Me
+
+**Hi, I'm King Tichaona Godo**
+
+**Full Stack Software Engineer | Building Technology That Solves Real-World Problems**
+
+I'm a passionate software engineer who enjoys designing and building scalable web and mobile applications that create meaningful impact. My work focuses on developing practical solutions in **FinTech, AgriTech, HealthTech, and Digital Transformation**, combining modern technologies with user-centered design to solve everyday challenges.
+
+I believe great software is more than clean code—it's about understanding people, simplifying complex problems, and delivering products that make a difference. Whether I'm developing enterprise systems, mobile applications, or backend services, I'm driven by curiosity, continuous learning, and a commitment to building technology that matters.
+
+**About Me**
+
+* Based in Harare, Zimbabwe
+* Email: **[kingtgodo@gmail.com](mailto:kingtgodo@gmail.com)**
+* Currently learning **Spring Boot, Java, and scalable backend architecture**
+* Open to collaborating on **FinTech, AgriTech, AI, HealthTech, and impactful software projects**
+* Ask me about **React, React Native, Node.js, TypeScript, backend development, and system architecture**
+
+> *"I enjoy turning ideas into reliable, scalable software that solves real problems and creates lasting value."*
+
 
 
 ## 🌐 Socials:
